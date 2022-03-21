@@ -1,7 +1,6 @@
 ## Overview
-![GitHub Stats](https://github-readme-stats-turtlesteak.vercel.app/api?username=turtlesteak&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Statistics)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turtlesteak&theme=vision-friendly-dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats-turtlesteak.vercel.app/api?username=turtlesteak&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800&custom_title=GitHub%20Statistics&border_radius=10)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turtlesteak&theme=midnight-purple&hide_border=true&langs_count=10&card_width=495&custom_title=Language%20Frequency&border_radius=10)
 
 ## Languages and Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,3 +15,5 @@
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/turtlesteak/count.svg)
 build a better one... maybe -->
+
+<!-- ## Special Repositories -->
